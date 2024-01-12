@@ -1,5 +1,3 @@
 	{
-	   "rewrites": [
-	     {"source": "/(.*)", "destination": "/"}
-       ]
-	 }
+  "currentTeam": "team_ofwUZockJlL53hINUGCc1ONW"
+}
